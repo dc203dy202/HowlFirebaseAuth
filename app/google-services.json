@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228034908433",
+    "firebase_url": "https://howlcoding-dayeon.firebaseio.com",
+    "project_id": "howlcoding-dayeon",
+    "storage_bucket": "howlcoding-dayeon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228034908433:android:c2b467d50d60401c",
+        "android_client_info": {
+          "package_name": "com.howlfirebaseauth.dayeon.howlfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228034908433-1ngtf0hckul6hcanojeve74shapbtgqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.howlfirebaseauth.dayeon.howlfirebaseauth",
+            "certificate_hash": "06fe86040bbbdc3ff92163eec7967aed665a6649"
+          }
+        },
+        {
+          "client_id": "228034908433-bp15t5pdioak369n3qsrdrkqbmeevau2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMnDsIh6FBeQRoNZcf43GY3HERwPIWDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228034908433-bp15t5pdioak369n3qsrdrkqbmeevau2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
